@@ -28,3 +28,5 @@ Leave one subject out cross-validation accuracy, sensitivity and specificity
 
 Describe feature engineering strategy and give evidence for why your strategy is better than others.
 
+# Reference
+University of Glasgow COMPSCI 5090
